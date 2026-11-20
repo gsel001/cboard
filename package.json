@@ -19,7 +19,7 @@
   "license": "GPL-3.0-only",
   "dependencies": {
     "@cospired/i18n-iso-languages": "^2.2.0",
-    "@crowdin/crowdin-api-client": "^1.56.3",
+    "@crowdin/crowdin-api-client": "^1.60.0",
     "@ctrl/react-adsense": "^1.8.0",
     "@material-ui/core": "^4.12.4",
     "@material-ui/icons": "^4.11.3",
@@ -29,15 +29,15 @@
     "@paypal/react-paypal-js": "^7.8.3",
     "@redux-beacon/google-analytics-gtag": "^1.1.0",
     "@redux-beacon/offline-web": "^1.0.0",
-    "axios": "^1.19.0",
+    "axios": "^1.21.0",
     "browser-image-resizer": "^2.4.1",
     "dom-to-image": "^2.6.0",
     "dotenv": "^16.6.1",
-    "echarts": "5.5.1",
+    "echarts": "6.1.0",
     "echarts-for-react": "^3.0.6",
     "file-saver": "^2.0.5",
     "fontsource-roboto": "^4.0.0",
-    "formik": "^1.5.8",
+    "formik": "^2.4.9",
     "history": "^4.10.1",
     "i18n-iso-countries": "4.3.1",
     "idb": "^7.1.1",
@@ -60,7 +60,7 @@
     "ogv": "^1.9.0",
     "pdfmake": "^0.2.23",
     "prop-types": "^15.8.1",
-    "query-string": "^6.14.1",
+    "query-string": "^10.0.0",
     "ramda": "^0.29.1",
     "react": "^17.0.2",
     "react-autosuggest": "^10.1.0",
@@ -89,7 +89,7 @@
     "reselect": "5.1.1",
     "shortid": "^2.2.17",
     "source-map-explorer": "^2.5.3",
-    "swiper": "^6.8.4",
+    "swiper": "^12.1.2",
     "yup": "^0.32.11"
   },
   "devDependencies": {
@@ -102,7 +102,7 @@
     "@wojtekmaj/enzyme-adapter-react-17": "^0.6.7",
     "ajv": "8.18.0",
     "babel-plugin-transform-import-meta": "^2.3.3",
-    "browserstack-node-sdk": "^1.65.6",
+    "browserstack-node-sdk": "^1.80.2",
     "decompress-zip": "^0.3.3",
     "enzyme": "^3.11.0",
     "enzyme-to-json": "3.3.5",
@@ -191,6 +191,6 @@
     "not op_mini all"
   ],
   "overrides": {
-    "js-yaml": "^4.3.1"
+    "js-yaml": "^4.3.2"
   }
 }
